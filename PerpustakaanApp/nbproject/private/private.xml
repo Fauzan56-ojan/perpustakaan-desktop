@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/util/DBConnection.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/dao/PengembalianDAO.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/dao/AnggotaDAO.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/dao/BukuDAO.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/dao/PinjamanDAO.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/model/Buku.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/view/PengembalianFrame.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/view/StatistikFrame.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/model/Anggota.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/view/AnggotaFrame.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/view/BukuFrame.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/view/MainDashboard.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/view/DaftarPinjamanFrame.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/dao/StatistikDAO.java</file>
+            <file>file:/C:/Users/User/Fauzan/Netbeans/NetBeansProjects/PerpustakaanApp/src/view/PinjamanBukuFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
