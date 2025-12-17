@@ -144,7 +144,7 @@ public class PinjamanBukuFrame extends JFrame {
 
         JPanel confirmPanel = new JPanel(new BorderLayout(10, 10));
         confirmPanel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
-        JLabel iconLabel = new JLabel(new ImageIcon(getClass().getResource("/images/confirm-icon.png")));
+        JLabel iconLabel = new JLabel("Peminjaman berhasil");
         confirmPanel.add(iconLabel, BorderLayout.WEST);
 
         JPanel textPanel = new JPanel(new GridLayout(0, 1));
@@ -226,3 +226,4 @@ public class PinjamanBukuFrame extends JFrame {
         }
     }
 }
+
